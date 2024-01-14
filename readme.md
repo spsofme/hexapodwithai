@@ -7,7 +7,7 @@
 ```bash
 cd hexapodwithai
 pip install virtualenv
-virtualenv myenv
+python -m venv myenv
 ./myenv/Scripts/activate
 pip install -r requirements.txt
 ```
